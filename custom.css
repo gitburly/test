@@ -37,7 +37,8 @@ ts-jumper ol li .member_real_name, ts-jumper ol li .view_name, ts-jumper ol li .
 
 .light_theme ts-message .message_content a.message_sender, #msg_input::-webkit-input-placeholder,
 ts-jumper input[type="text"]::-webkit-input-placeholder {
-  color: #aaa !important;
+  /*color: #aaa !important;*/
+  color: #09F !important;
 }
 
 #msg_input, #primary_file_button {
