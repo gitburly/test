@@ -10,7 +10,8 @@
    --border-dim: #666;
    --border-bright: var(--primary);
 
-   --text: #CCC;
+   /*--text: #CCC;*/
+   --text: #09F;
    --text-alt: var(--accent);
    --text-special: var(--primary);
 
