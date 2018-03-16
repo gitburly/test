@@ -69,7 +69,8 @@ ts-message {
 
 ts-message:hover {
    margin: 0px !important;
-   background: var(--background-hover) !important;
+   /*background: var(--background-hover) !important;*/
+   background: var(--primary) !important;
    border: 1px solid var(--border-bright) !important
 }
 
