@@ -120,7 +120,8 @@ ts-message .action_hover_container .btn_msg_action,
 #flex_contents .subheading,
 #search_filters.files #filter_files, #search_filters.messages #filter_messages,
 .menu ul li a{
-  color: var(--text) !important;
+ /* color: var(--text) !important;*/
+ color: #09F !important;
   border-color: var(--border-dim) !important;
 }
 
@@ -211,7 +212,9 @@ a:hover{
 }*/
 .channels_list_holder ul li a.channel_name, .channels_list_holder ul li:not(.unread) .group_name, .channels_list_holder ul li .im_name, .channels_list_holder ul li .mpim_name, .channels_list_holder ul li>a:link,
 ts-message a.timestamp{
-  color: #aaa !important;
+  /*color: #aaa !important;*/
+ color: #09F !important;
+   
 }
 #channels_scroller.show_which_channel_is_active ul li.active .im_name{
   color: #fff !important;
@@ -221,6 +224,7 @@ ts-message a.timestamp{
  background: #000 !important;
  /*color: #aaa !important;*/
  color: #09F !important;
+   
 }
 
 #msgs_div .unread_divider.no_unreads hr{
