@@ -37,8 +37,7 @@ ts-jumper ol li .member_real_name, ts-jumper ol li .view_name, ts-jumper ol li .
 
 .light_theme ts-message .message_content a.message_sender, #msg_input::-webkit-input-placeholder,
 ts-jumper input[type="text"]::-webkit-input-placeholder {
-  /*color: #aaa !important;*/
-  color: #09F !important;
+  color: #aaa !important;
 }
 
 #msg_input, #primary_file_button {
@@ -220,7 +219,8 @@ ts-message a.timestamp{
 
 #msgs_div .unread_divider.no_unreads .divider_label{
  background: #000 !important;
- color: #aaa !important;
+ /*color: #aaa !important;*/
+ color: #09F !important;
 }
 
 #msgs_div .unread_divider.no_unreads hr{
