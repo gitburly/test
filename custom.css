@@ -1,13 +1,13 @@
 :root {
    --primary: #09F;
-   --accent: #57A;
+   --accent: #09F;
 
-   --background: #080808;
-   --background-elevated: #222;
+   --background: #09F;
+   --background-elevated: #09F;
    --background-hover: rgba(255, 255, 255, 0.1);
-   --sidebar-background: #1a2129;
+   --sidebar-background: #09F;
 
-   --border-dim: #666;
+   --border-dim: #09F;
    --border-bright: var(--primary);
 
    /*--text: #CCC;*/
